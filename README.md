@@ -1,8 +1,8 @@
 # CL-ACF_datapackage_v1.0
-Data package for CL-ACF Ameriflux site
+Data package for CL-ACF Ameriflux site: https://ameriflux.lbl.gov/sites/siteinfo/CL-ACF
 
 First data release of daily carbon fluxes and micrometeorology at the CL-ACF Ameriflux site published by Perez-Quezada, Barichivich et al. (2023).
-https://ameriflux.lbl.gov/sites/siteinfo/CL-ACF
+
 
 Perez-Quezada, J., Barichivich, J., Urrutia-Jalabert, R., Carrasco, E., Aguilera, D., Bacour, C. and Lara, A. (2023). Warming and drought weaken the carbon sink capacity of an endangered paleoendemic temperate rainforest in South America. Journal of Geophysical Research: Biogeosciences, in press.
 
