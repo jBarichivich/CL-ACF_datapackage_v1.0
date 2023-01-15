@@ -1,7 +1,6 @@
 # CL-ACF_datapackage_v1.0
 Data package for CL-ACF Ameriflux site
 
-CL-ACF data package v1.0
 First data release of daily carbon fluxes and micrometeorology at the CL-ACF Ameriflux site published by Perez-Quezada, Barichivich et al. (2023).
 https://ameriflux.lbl.gov/sites/siteinfo/CL-ACF
 
