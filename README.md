@@ -9,7 +9,8 @@ Perez-Quezada, J., Barichivich, J., Urrutia-Jalabert, R., Carrasco, E., Aguilera
 Daily integrated NEE, GPP and Reco are given in g/C/m2
 
 FAIR USE POLICY
+
 We appreciate open science and provide the data for fair use in the scientific community. 
 We would appreciate acknowledgement and collaboration when the data are sufficiently important for any publication. 
-With this you will benefit from our expert insight and it will also allow us to justify and attract the scarce funding to keep the measurements ongoing. 
+With this you will benefit from our expert insight and it will also help us to justify and attract the much needed funding to keep the measurements going. 
 Please contact Prof. Jonathan Barichivich (data manager): jonathan.barichivich@lsce.ipsl.fr
